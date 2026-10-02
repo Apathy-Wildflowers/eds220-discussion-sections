@@ -2,7 +2,7 @@
 
 This repository hosts all the work completed by Liam Sarmiento during the discussion sections of EDS 220 - *Working with Environmental Datasets*.
 
-## Course Information
+## Course Informationnn
 
 - **Course Title:** [EDS 220 - Working with Environmental Datasets](https://bren.ucsb.edu/courses/eds-220)
 - **Term:** Fall 2026
